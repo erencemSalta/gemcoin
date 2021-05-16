@@ -1,2 +1,2 @@
-Hello
 # gemcoin
+## The future cryptocurrency
